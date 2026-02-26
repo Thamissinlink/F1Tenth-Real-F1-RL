@@ -1,0 +1,23 @@
+f1tenth_ws/build/
+f1tenth_ws/devel/
+f1tenth_ws/install/
+f1tenth_ws/log/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+f1tenth_ws/src/*/build/
+f1tenth_ws/src/*/install/
+f1tenth_ws/src/*/log/
+*.egg-info/
+colcon_command_prefix_*
+prefix_override/
+.vscode/
+venv/
+# Extra ROS2/colcon ignores
+f1tenth_ws/src/*/build/
+f1tenth_ws/src/*/install/
+f1tenth_ws/src/*/log/
+*.egg-info/
+colcon_command_prefix_*
+prefix_override/
