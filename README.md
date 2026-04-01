@@ -21,12 +21,12 @@ Autonomous racing stack for the F1TENTH platform that learns driving behavior di
 - Stable-Baselines3 (RL)
 - SLAM Toolbox, Nav2, particle filter localization
 
-## Results
+## Results Coming Soon!
 | Method              | Lap Time (Levy track) | Success Rate |
 |---------------------|-----------------------|--------------|
-| Pure Pursuit        | X.XX s                | 100%         |
-| Imitation Learning  | X.XX s                | XX%          |
-| IL + RL Fine-tune   | X.XX s                | XX%          |
+| Pure Pursuit        | 
+| Imitation Learning  | 
+| IL + RL Fine-tune   | 
 
 ## Setup & Usage
 ...
